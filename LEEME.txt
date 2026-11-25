@@ -1,0 +1,32 @@
+TUTORIAL DE DESARROLLO DE APLICACIONES MÓVILES
+
+ARCHIVOS
+- index.html: estructura y contenido base de la página.
+- css/estilos.css: diseño visual y adaptación a computadora, tableta y celular.
+- js/app.js: navegación entre temas, buscador, barra de progreso y biblioteca de videos.
+
+CÓMO EJECUTAR
+1. Descomprime la carpeta.
+2. Abre index.html con Google Chrome, Microsoft Edge o Firefox.
+3. No necesita instalar programas ni configurar una base de datos.
+4. Para editar el proyecto, abre la carpeta en Visual Studio Code.
+
+NOTAS
+- El contenido está orientado principalmente a Android.
+- Algunos fragmentos de código son ejemplos conceptuales y requieren completarse para formar una aplicación real.
+- Las referencias están disponibles en el apartado final del tutorial.
+- El apartado “Videos de apoyo” organiza búsquedas de videos de YouTube por cada tema.
+
+REDES SOCIALES
+- El pie de página incluye el código QR de Instagram y el usuario @CARMONAAAAA00.
+- Facebook aparece como Rocio Carmona. Para enlazar directamente el perfil se necesita su URL pública.
+
+
+MODO SIN CONEXION (PWA)
+- Publica todos los archivos en la raiz de GitHub Pages.
+- Abre la pagina una primera vez con internet y espera unos segundos para que se guarden los archivos.
+- En Android/Chrome: menu ⋮ > Instalar aplicacion o Añadir a pantalla de inicio.
+- En iPhone/Safari: Compartir > Añadir a pantalla de inicio.
+- Despues puedes abrir AprendeMovil desde su icono sin Wi-Fi ni datos.
+- Los contenidos, estilos, buscador y QR quedan guardados localmente. Los enlaces externos y videos de YouTube requieren internet.
+- No borres los datos del navegador ni desinstales la app si quieres conservar la copia local.

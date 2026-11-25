@@ -1,0 +1,16 @@
+{
+  "name": "AprendeMovil - Desarrollo de aplicaciones móviles",
+  "short_name": "AprendeMovil",
+  "description": "Tutorial interactivo de desarrollo de aplicaciones móviles, disponible sin conexión.",
+  "lang": "es-MX",
+  "version": "1.0.1",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf9ff",
+  "theme_color": "#8b75df",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
